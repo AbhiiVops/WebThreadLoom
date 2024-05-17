@@ -46,7 +46,7 @@ This web server implementation handles multiple clients concurrently using threa
 
 - You can use JMeter to test the performance of the Multithreaded server. Here's a graph showing the results:
 <center>
-<img src="public/MultiThreaded.png" width="700" alt="Landing Page">
+<img src="public/Multithreaded.png" width="700" alt="Landing Page">
 </center>
 
 
